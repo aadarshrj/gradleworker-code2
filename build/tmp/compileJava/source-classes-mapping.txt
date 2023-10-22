@@ -1,0 +1,6 @@
+org/paralleltask/workerclass/Integer.java
+ org.paralleltask.workerclass.Integer
+org/paralleltask/workerclass/Letter.java
+ org.paralleltask.workerclass.Letter
+org/paralleltask/workerclass/Printable.java
+ org.paralleltask.workerclass.Printable

@@ -1,0 +1,13 @@
+import org.paralleltask.ParallelExecutionTask
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+task parallelExecution(type: ParallelExecutionTask) {
+    group = 'Custom Tasks' // Optional: Assign the task to a custom group
+    description = 'Execute custom tasks in parallel'
+}
